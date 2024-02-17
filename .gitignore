@@ -3,3 +3,6 @@ out/
 *.iml
 /build
 .gradle
+api/build
+db/build
+service/build
